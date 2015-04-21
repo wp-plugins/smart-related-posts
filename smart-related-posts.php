@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Smart Related Post
+Plugin Name: Smart Related Posts
 Description: 
 Version: 1.0
 Author: Pedro Escudero
